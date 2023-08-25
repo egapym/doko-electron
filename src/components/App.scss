@@ -1,0 +1,63 @@
+.row {
+  margin-right: 0px;
+}
+button:focus {
+  outline: none;
+  outline: none;
+}
+.contents {
+  z-index: 0;
+  overflow-y: auto;
+  height: calc(100vh - 35px);
+}
+.tab.mdc-tab {
+  height: 35px;
+}
+.tab.mdc-tab-bar {
+  height: 35px;
+}
+body {
+  overflow-y: hidden;
+  overflow-x: auto;
+  margin: 0;
+}
+.app-tabs {
+  background-color: #ffffff;
+  border-bottom: solid 1px #dee2e6;
+}
+.app-tab {
+  &:hover {
+    background-color: #f1f7fc;
+  }
+}
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-paper {
+  width: 680px;
+  background-color: #fff;
+  padding: 15px 15px 15px;
+  border-radius: 5px;
+}
+.user-list {
+  margin-bottom: 9px;
+  user-select: none; /* 選択を禁止する */
+  height: calc(100vh - 90px);
+}
+.modal-title {
+  font-size: 21px;
+}
+.paper {
+  padding: 10px 15px;
+  margin: 5px;
+}
+.base-btn-outline {
+  color: rgba(0, 0, 0, 0.87);
+  border-color: rgba(0, 0, 0, 0.23);
+  &:hover {
+    border-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+}

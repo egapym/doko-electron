@@ -1,0 +1,34 @@
+.error-message {
+  color: red;
+  font-size: 18px;
+  padding: 1rem;
+}
+.name {
+  padding-right: 10px;
+}
+.status {
+  padding-right: 10px;
+}
+.__react_component_tooltip.type-dark.place-top:after {
+  border-top-color: #666;
+}
+.__react_component_tooltip.type-dark {
+  background-color: #666;
+}
+.user-edit-modal-base-button {
+  width: 10rem;
+  margin-left: 8px;
+}
+.user-edit-modal-presence-button {
+  bottom: 4px;
+}
+.user-edit-modal-delete-button {
+  color: #a3a9b1;
+  border-color: #d4d9dd;
+}
+.user-edit-modal-tooltip {
+  font-size: 12px;
+}
+.submit-button-group {
+  float: right;
+}

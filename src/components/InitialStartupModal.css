@@ -1,0 +1,23 @@
+.error-message {
+  color: red;
+  font-size: 18px;
+  padding: 1rem;
+}
+.change-user-entry-type {
+  font-size: 13px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-bottom: 2px;
+  position: relative;
+  padding-right: 0px;
+}
+.initial-startup-modal-base-button {
+  width: 10rem;
+  margin-left: 8px;
+}
+.initial-startup-modal-paper {
+  width: 400px;
+  background-color: #fff;
+  padding: 15px 15px 15px;
+  border-radius: 5px;
+}

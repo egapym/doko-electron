@@ -1,0 +1,17 @@
+.settings {
+  font-size: 18px;
+  margin: 15px;
+}
+.settings_user {
+  margin-bottom: 15px;
+}
+.settings-save-button {
+  position: absolute;
+  bottom: 13%;
+  right: 3%;
+  width: 10rem;
+  margin-left: 8px;
+}
+.settings-switch {
+  right: 1%;
+}

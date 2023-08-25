@@ -1,0 +1,35 @@
+.office_info {
+  font-size: 18px;
+  margin: 15px;
+}
+.info {
+  margin-bottom: 15px;
+}
+.info_content {
+  text-align: center;
+  font-size: xx-large;
+}
+.info_content_unit {
+  font-size: large;
+  margin-left: 10px;
+}
+.restrooms_content_no_operating {
+  text-align: center;
+  font-size: larger;
+  margin: 5px;
+}
+.restrooms_content_no_vacancy {
+  color: red;
+  text-align: center;
+  font-size: larger;
+  margin: 5px;
+}
+.restrooms_content_vacancy {
+  color: blue;
+  text-align: center;
+  font-size: larger;
+  margin: 5px;
+}
+.restroom_no_operating {
+  background-color: lightgray;
+}
